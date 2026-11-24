@@ -1,0 +1,31 @@
+{
+  "name": "sep11-freedom-project-app",
+  "version": "1.0.0",
+  "description": "### original repository for Annabella Shum: https://github.com/annabellas4934/sep11-freedom-project ### original repository for Evangelina Ermakova: https://github.com/evangelinae1225/sep11-freedom-project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evangelinae1225/sep11-freedom-project-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evangelinae1225/sep11-freedom-project-app/issues"
+  },
+  "homepage": "https://github.com/evangelinae1225/sep11-freedom-project-app#readme",
+  "dependencies": {
+    "animejs": "^4.5.0",
+    "firebase": "^13.4.0"
+  },
+  "overrides": {
+    "@grpc/grpc-js": "^1.13.6"
+  },
+  "devDependencies": {
+    "webpack": "^5.113.0",
+    "webpack-cli": "^7.3.1"
+  }
+}
